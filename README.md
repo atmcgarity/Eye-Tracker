@@ -1,5 +1,7 @@
 # Eye-Tracker
 This repository contains the eye tracker assignement that I did as part of the MIT Full Stack Coding Bootcamp. Although there are both Javascript and HTML files in this repository, the main focus of this assignment was CSS minipulation. In this project I added a second eye and added some code in Javascript that would allow the pupil within the eye to track the movement of the mouse. I think it works pretty well but I would like to add more in the future as my programming abilities get better. 
+# How to Run
+In order to run this project you will need to fork this repository in order to get the files onto your own machine. You will then drag the HTML file onto a browser and watch as they pupils of the eyes follow your cursor around.
 # Roadmap
 One addition I think would be cool is to have the eyes blink when you click the page. It would also be nice to add more to the eyes, for example I would like to add colored retinas.
 # License Information
